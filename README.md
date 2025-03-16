@@ -1,6 +1,6 @@
 # Sketch Colorization Using Diffusion Models & Photo-Sketch Correspondence
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AxelDlv00/DiffusionSketchColorization)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/AxelDlv00/DiffusionSketchColorization/tree/main)  [![Hugging Face Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/ComputerVisionAnimeProject/AnimeFaceColorization/blob/main/README.md)
 
 ## Overview
 This project explores **anime sketch colorization** using state-of-the-art **diffusion models** and **photo-sketch correspondence techniques**. Inspired by recent advancements in **AnimeDiffusion**, **MangaNinja**, and **photo-sketch correspondence models**, our method is a lighter model.
@@ -32,4 +32,4 @@ If you use this model, please cite:
   url          = {https://github.com/AxelDlv00/DiffusionSketchColorization},
   note         = {Project exploring anime sketch colorization using diffusion models and deep learning.}
 }
-``
+```
